@@ -11,7 +11,7 @@ const MainContent = () => {
       <h1>Ali Mahdi</h1>
       <h3>
         <span id="my-skills" />
-        FrontEnd Developer
+        Senior FrontEnd Developer
       </h3>
 
       <div className="space" />

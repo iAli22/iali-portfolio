@@ -68,25 +68,25 @@ a:visited {
   display: block;
 }
 
-.stars {
+/* .stars {
   background: #000
-    url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top
+    url("./img/starts.jpg") repeat top
     center;
   z-index: 0;
-}
+} */
 
-.black {
+/* .black {
   background: transparent
-    url(http://www.script-tutorials.com/demos/360/images/twinkling.png) repeat
+    url("./img/") repeat
     top center;
   z-index: 1;
 
   animation: move-black-back 200s linear infinite;
-}
+} */
 
 .clouds {
   background: transparent
-    url(http://www.script-tutorials.com/demos/360/images/clouds3.png) repeat top
+    url("./img/Cloud-1.png") repeat top
     center;
   z-index: 3;
 
